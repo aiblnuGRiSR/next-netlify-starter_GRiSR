@@ -18,3 +18,10 @@
   to = "https://festingervault.com/checkout?edd_action=add_to_cart&download_id=73948&ref=1156&discount=BLACKFRIDAY25"
   status = 301
   force = true
+  
+  
+  [[redirects]]
+  from = "/1/"
+  to = "https://amzn.to/3ENdBWk"
+  status = 301
+  force = true
